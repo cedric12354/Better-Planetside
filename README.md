@@ -1,6 +1,5 @@
-# Better Planetside (Release Guide)
+# Better Planetside
 
-This README is for end users downloading release assets.
 
 ## Download
 
