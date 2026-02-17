@@ -35,6 +35,13 @@ A powerful overlay and stat tracking application for PlanetSide 2, featuring rea
 2. **Extract** the folder to a location of your choice.
 3. **Run** `Better Planetside.exe`. 
    * *Note: No installation required. All dependencies are bundled.*
+  
+### 🪟 Windows (Installer)
+
+1. **Download** the latest `Better-Planetside-Installer.exe` from the releases.
+2. **Install** to a location of your choice.
+3. **Run** `Better Planetside.exe`.
+      * *Note: This is basically the same as the portable version, but gives you a way to uninstall and set shortcuts for you.*
 
 ### 🐧 Linux (.tar.gz)
 
@@ -156,3 +163,4 @@ This is a third-party application and is not affiliated with, endorsed by, or co
 ---
 
 **Made with ❤️ for the PlanetSide 2 community**
+
